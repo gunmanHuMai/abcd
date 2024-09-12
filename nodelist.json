@@ -1,0 +1,30 @@
+[
+    {
+        "id": "Free",
+        "hostname": "node-v3.beban.tech",
+        "port": 80,
+        "password": "dsc.gg/bebancommunity"
+    }
+    ,
+    {
+        "id": "ajeib v3",
+        "hostname": "lava-v3.ajieblogs.eu.org",
+        "port": 80,
+        "password": "https://dsc.gg/ajidevserver"
+    }
+    ,
+    {
+        "id": "AjieDev - Lavalink [Non SSL | US]",
+        "hostname": "lava-v3.ajieblogs.eu.org",
+        "port": 80,
+        "password": "https://dsc.gg/ajidevserver"
+      }
+      ,
+      {
+        "id": "AjieDev - Lavalink [SSL | UK]",
+        "hostname": "lava-v3.ajieblogs.eu.org",
+        "port": 443,
+        "password": "https://dsc.gg/ajidevserver",
+        "secure": true
+      }
+]
